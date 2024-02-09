@@ -132,11 +132,4 @@ eksctl delete cluster --name three-tier-cluster --region us-west-2
 - Ensure your code adheres to the project's style and contribution guidelines.
 - Submit a Pull Request with a detailed description of your changes.
 
-## Rewards
-- Successful PR merges will be eligible for exciting prizes!
 
-## Support
-For any queries or issues, please open an issue in the repository.
-
----
-Happy Learning! 🚀👨‍💻👩‍💻
